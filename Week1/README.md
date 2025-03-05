@@ -3,9 +3,7 @@
 
 ```bash
 # Example
-$ unittest_file=leetcode_1603_unittest.py
-$ solution_file=leetcode_1603.py
-$ python $unittest_file $solution_file
+$ python leetcode_1603_unittest.py leetcode_1603.py
 ```
 
 만약 성공한다면 다음과 같이 나오게 됩니다.
