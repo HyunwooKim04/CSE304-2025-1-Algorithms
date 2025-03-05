@@ -1,10 +1,11 @@
 ## Unittest
-아래는 솔루션파일을 유닛테스트하는 커맨드입니다.
+아래는 솔루션파일을 유닛테스트하는 커맨드 예시입니다.
 
 ```bash
 # Example
+$ unittest_file=leetcode_1603_unittest.py
 $ solution_file=leetcode_1603.py
-$ python leetcode_1603.py $solution_file
+$ python $unittest_file $solution_file
 ```
 
 만약 성공한다면 다음과 같이 나오게 됩니다.
